@@ -1,52 +1,63 @@
-[Pexels-App]
 
-Project Description
-[Insert brief project description here]
+# Pexels-App
 
-Table of Contents
-Project Title
-Project Description
-Table of Contents
-Demo
-Screenshots
-Technologies
-API
-Setup
-Usage
-Contributing
-License
-Demo
-[https://pexels-app-delta.vercel.app/]
+This project utilizes HTML, CSS, and JavaScript along with the Pexels API to create a visually engaging website with high-quality, free-to-use photos and videos. With the Pexels API, the project is able to dynamically display new and interesting content, providing a rich and immersive user experience. The project showcases how developers can harness the power of HTML, CSS, and JavaScript to create modern, responsive, and visually appealing websites while leveraging the resources provided by the Pexels API.
 
-Screenshots
-[Insert screenshots of the project here]
+## Demo
 
-Technologies
-The project was created using the following technologies:
+Click To Check Live [Live Heae](https://pexels-app-delta.vercel.app/)
 
-HTML
-CSS
-JavaScript
-API
-This project utilizes the Pexels API to display photos on the webpage. You will need to create a Pexels account and generate an API key to use in the project. You can find more information about the Pexels API here.
+## Screenshots
 
-Setup
-Clone the repository to your local machine.
-Create a Pexels account and generate an API key.
-Create a config.js file in the root directory of the project.
-In the config.js file, add the following code:
-javascript
-Copy code
-const apiKey = 'YOUR_API_KEY';
+![App Screenshot](https://raw.githubusercontent.com/cyberboyarup/Pexels-App/main/ss.png)
 
-export default apiKey;
-Replace YOUR_API_KEY with your Pexels API key.
-Open the index.html file in a web browser.
-Usage
-[Insert instructions on how to use the project here]
 
-Contributing
-[Insert instructions on how to contribute to the project here]
+## Tech Stack
 
-License
-[Insert information about the project license here]
+**Technologies:** 
+- Html
+- CSS
+- JS
+
+
+
+
+## API Reference
+
+This project utilizes the Pexels API to display photos on the webpage. You will need to create a Pexels account and generate an API key to use in the project. You can find more information about the Pexels  [API_KEY](https://www.pexels.com/api/).
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/cyberboyarup/Pexels-App/
+```
+
+Go to the project directory
+
+```bash
+  cd Pexels-App
+```
+  Open With VsCode And Put Your API On This Section
+
+
+```javascript
+  this.API_KEY = 'Your_API';
+```
+
+
+
+## Features
+
+- Trending
+- Serarch
+- Fullscreen 
+- Photographer
+
+
+## Authors
+
+- [@cyberboyarup](https://www.github.com/cyberboyarup)
+
