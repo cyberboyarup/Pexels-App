@@ -9,7 +9,7 @@ Click To Check Live [Live Heae](https://pexels-app-delta.vercel.app/)
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/cyberboyarup/Pexels-App/main/ss.png)
+![App Screenshot](https://www.pexels.com/photo/pexels-app-15640039/)
 
 
 ## Tech Stack
